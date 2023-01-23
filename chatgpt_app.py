@@ -8,6 +8,7 @@ st.sidebar.info(
        the OpenAI API's implementation of the ChatGPT model.
        Enter a **query** in the **text box** and **press enter** to receive 
        a **response** from the ChatGPT
+       **Author: Tanbin Islam Rohan**
        '''
 )
 
